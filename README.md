@@ -1,5 +1,5 @@
 my demo app 
-![Demo](Жазба%202024-09-18%20012755.gif)
+![Demo](ticket.gif)
 
 # Getting Started with Create React App
 
