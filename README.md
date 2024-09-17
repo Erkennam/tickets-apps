@@ -1,5 +1,5 @@
 my demo app 
-![Demo](./my-app/gif/gif)
+![Demo](gif/gif)
 
 # Getting Started with Create React App
 
